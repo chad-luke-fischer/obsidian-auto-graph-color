@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.DS_Store
+
+# Per-user runtime state. Contains the Anthropic API key when set — never commit.
+data.json
+
+# Sourcemaps from `npm run dev`.
+*.js.map

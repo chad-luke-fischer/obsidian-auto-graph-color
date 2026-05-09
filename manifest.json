@@ -1,0 +1,9 @@
+{
+  "id": "auto-graph-color",
+  "name": "Auto Graph Color",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Auto-color the graph view by AI-clustering your vault. Flip through palette variations, favorite the ones you like.",
+  "author": "Chad",
+  "isDesktopOnly": true
+}
