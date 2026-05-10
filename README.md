@@ -2,6 +2,9 @@
 
 Auto-color the Obsidian graph view by clustering your vault's link structure.
 
+<img width="1064" height="720" alt="image" src="https://github.com/user-attachments/assets/16a6165e-e73f-478e-b898-fc0c65a407a6" />
+
+
 The plugin walks your vault's wikilinks, runs Louvain community detection to find tightly-connected clusters of notes, optionally asks Claude to give each cluster a human-readable name, and then writes a `colorGroups` payload into `graph.json` so each cluster shows up as a distinct color in the graph view. You flip through palette variations in a modal, save the ones you like, and apply with one click.
 
 ## Install
